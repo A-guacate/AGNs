@@ -12,7 +12,8 @@ wpachecov@unal.edu.co
 AGNs/
 ├── README.md                   
 ├── pyproject.toml              # Configuración del proyecto y dependencias (pixi)
-├── QSO.ipynb                   # Notebook principal 
+├── QSO.ipynb                   # Notebook principal
+├── AGNs.pdf                    # Bitácora con el desarrollo de las ecuaciones utilizadas
 ├── data_sdss.csv               # Datos de entrada (SDSS)
 ├── data_clean.csv              # Datos SDSS filtrados
 └── src/
